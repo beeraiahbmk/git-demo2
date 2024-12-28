@@ -2,3 +2,5 @@ added some content to the file1
 
 
 //i am changing inside remote repository.............
+
+//WE ARE CHANGING HERE CHECKING LOCAL MACHINE....USING GIT PULL
